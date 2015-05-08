@@ -14,4 +14,3 @@ Versie 13, development
 Versie 14, mijn-lokale-branch
 Versie 15, mijn-lokale-branch
 Versie 16, mijn-lokale-branch
-Fix voor issue nummer 2.
