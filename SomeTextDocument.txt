@@ -18,3 +18,4 @@ closes #2, fixes #2
 nog wat
 Versie 17
 Versie 18
+Versie 19
