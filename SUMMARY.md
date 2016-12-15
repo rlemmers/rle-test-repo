@@ -1,4 +1,4 @@
-# Summary
+# Summary ...
 
 * [General platform architecture](Architecture/README.md)
    * [Platform properties](Architecture/OSGPProperties.md)
