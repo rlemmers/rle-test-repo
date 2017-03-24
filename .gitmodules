@@ -1,4 +1,4 @@
 [submodule "rle-test-repo2"]
 	path = rle-test-repo2
 	url = https://github.com/rlemmers/rle-test-repo2
-        branch = development
+        branch = release-4.5.0
